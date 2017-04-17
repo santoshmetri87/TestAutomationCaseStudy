@@ -1,0 +1,4 @@
+Create New App and Integrate
+In order to create a new app to send native ads request
+As a user
+I want to be able to create and integrate with the new app

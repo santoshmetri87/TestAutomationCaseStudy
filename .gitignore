@@ -1,0 +1,6 @@
+**/target
+!.gitkeep
+*.gitignore
+**/.idea
+**/.classpath
+**/*.iml
